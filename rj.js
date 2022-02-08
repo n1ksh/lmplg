@@ -5,7 +5,7 @@
             e.object.activity.render().find('.view--trailer').remove();
         }
     });
-})();
+});
 
 (function () {
     'use strict';
